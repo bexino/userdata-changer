@@ -2,6 +2,13 @@
 
 This tool uses the mlink directory junction command to migrate the entire Chrome user data from the C drive to another disk without loss.
 
+## Quick Start
+
+Download: https://github.com/bexino/userdata-changer.git
+
+> [!NOTE]
+> After downloading, right-click `start.bat` and select `Run as administrator`.
+
 ## Features
 
 | Feature           | Description                                                  |
@@ -46,6 +53,13 @@ Apache-2.0 license
 # Chrome 个人资料迁移工具
 
 本工具通过 mlink 目录联接命令，将 C 盘的 Chrome 用户数据全量无损迁移至其他磁盘。
+
+## 快速开始
+
+下载：https://github.com/bexino/userdata-changer.git
+
+> [!NOTE]
+> 下载后，在 `start.bat` 右键 `以管理员身份运行`。
 
 ## 特性
 
