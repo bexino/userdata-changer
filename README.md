@@ -1,5 +1,7 @@
 # Chrome Profile Migration Tool
 
+[![](https://img.shields.io/badge/简体中文-red)](#简体中文)
+
 This tool uses the mlink directory junction command to migrate the entire Chrome user data from the C drive to another disk without loss.
 
 ## Quick Start
@@ -50,8 +52,9 @@ Download: https://github.com/bexino/userdata-changer.git
 
 Apache-2.0 license
 
-# Chrome 个人资料迁移工具
+---
 
+# 简体中文
 本工具通过 mlink 目录联接命令，将 C 盘的 Chrome 用户数据全量无损迁移至其他磁盘。
 
 ## 快速开始
