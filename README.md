@@ -3,7 +3,7 @@
 [![Commit Activity](https://img.shields.io/github/commit-activity/t/bexino/userdata-changer?color=green)](https://github.com/bexino/userdata-changer/commits/main/)
 [![License](https://img.shields.io/github/license/bexino/userdata-changer?color=blue)](https://github.com/bexino/userdata-changer/blob/main/LICENSE)
 [![MadeWith♥](https://img.shields.io/badge/@bexino-Made_With_♥-purple)](https://github.com/bexino)
-[![ViewInGithub](https://img.shields.io/badge/Github-bexino%2Fuserdata--changer-white?logo=github&logoColor=auto&labelColor=555555&color=ffffff)](https://github.com/bexino/userdata-changer/)
+[![ViewInGithub](https://img.shields.io/badge/Github-bexino%2Fuserdata--changer-white?logo=github&logoColor=auto&labelColor=555555&color=000000)](https://github.com/bexino/userdata-changer/)
 
 
 # Chrome Profile Migration Tool
