@@ -1,3 +1,9 @@
+[![简体中文](https://img.shields.io/badge/简体中文-zh__cn-red)](#简体中文)
+[![QuickStart](https://img.shields.io/badge/Quick-Start-orange)](#quick-start)
+[![Commit Activity](https://img.shields.io/github/commit-activity/t/bexino/userdata-changer?color=green)](https://github.com/bexino/userdata-changer/commits/main/)
+[![License](https://img.shields.io/github/license/bexino/userdata-changer?color=blue)](https://github.com/bexino/userdata-changer/blob/main/LICENSE)
+[![MadeWith♥](https://img.shields.io/badge/@bexino-Made_With_♥-purple)](https://github.com/bexino)
+
 # Chrome Profile Migration Tool
 
 [![](https://img.shields.io/badge/简体中文-red)](#简体中文)
