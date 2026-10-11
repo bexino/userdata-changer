@@ -12,7 +12,7 @@ This tool uses the mlink directory junction command to migrate the entire Chrome
 
 ## Quick Start
 
-[Download.](https://github.com/bexino/userdata-changer/archive/refs/heads/main.zip)
+[Download](https://github.com/bexino/userdata-changer/archive/refs/heads/main.zip)
 
 > [!NOTE]
 > After downloading, right-click `start.bat` and select `Run as administrator`.
@@ -65,7 +65,7 @@ Apache-2.0 license
 
 ## 快速开始
 
-[下载。](https://github.com/bexino/userdata-changer/archive/refs/heads/main.zip)
+[下载](https://github.com/bexino/userdata-changer/archive/refs/heads/main.zip)
 
 > [!NOTE]
 > 下载后，在 `start.bat` 右键 `以管理员身份运行`。
